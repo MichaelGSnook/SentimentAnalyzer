@@ -1,0 +1,5 @@
+positive=happy,good,fun,fine,positive
+negative=dislike,sad,bad,sorry,regret,angry
+stop=I,an,a,the,of,on,
+scoringmethod=1
+mindistance=0.6
